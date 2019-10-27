@@ -1,0 +1,9 @@
+1.Jaki jest przewidiwany czas wdrożenia?
+2.Jaki jest zakres projektu?
+3.Czy projekt zakłada wprowadzanie zmian w trakcie realizacji?
+4.Pod jakim obciążeniem będzie działała aplikacja?
+5.Jaki powinien być minimalny współczynnik dostępności serwisu?
+6.Jak wysoki powinien być stopień bezpieczeństwa danych?
+7.Czy jest to system krytyczny, innymi słowy, jaki jest koszt pojedynczego bledu aplikacji?
+8.Kto będzie decydował o wyborze technologii? Klient czy Wykonawca?
+9.
