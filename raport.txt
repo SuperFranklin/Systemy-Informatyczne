@@ -1,0 +1,13 @@
+Tytuł projektu: TUMSJA
+Temat projektu: Aplikacja umożliwiająca planowanie transportu na terenie kraju
+Twórcy:
+	-Mateusz Marciniak 430690
+	-Franciszek Słupski
+
+Projekt JIRA: https://jira.wmi.amu.edu.pl/projects/TUM/
+Projekt git: https://github.com/SuperFranklin/Systemy-Informatyczne
+
+Spis plików:
+
+SRS - Specyfikacja systemu
+Scenariusz_wywiadu - Scenarisz wywiadu z potencjalnym klientem aplikacji
