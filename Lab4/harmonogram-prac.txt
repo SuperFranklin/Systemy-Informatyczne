@@ -1,0 +1,24 @@
+1. PROJEKTOWANIE
+	Przygotowanie specyfikacji UX
+	Przygotowanie prototypu UI
+	Testy użyteczności
+	Przeprowadzenie ankiety UI
+	Przygotowanie projektu graficznego
+	Przygotowanie specyfikacji UX
+2. REALIZACJA
+	przygotowanie algorytmu wyznaczania tras
+	testy algorytmu
+	przygotowanie repozytoriów tras
+	testy algorytmu z repozytoriami
+	przygotowanie api restowego
+	testy api restowego
+	przygotowanie warstwy prezentacji dla aplikacji internetowej
+	testy wartsty prezentacji
+	przygotowanie aplikacji mobilej
+	testy aplikacji mobilnej
+3. WDROŻENIE
+	wdrożenie wersji Beta dla ograniczonej liczby użytkowników testowych
+	uzyskanie potwierdzenia od klientów
+	wdrożenie aplikacji dla wszystkich użytkowników
+4. PODSUMOWANIE
+	podsumowanie projektu
