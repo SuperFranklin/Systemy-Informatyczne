@@ -1,0 +1,4 @@
+Gra polega na kolejnym zjadaniu ciastek z pudełka.
+Gracz w kolejnych ruchach może zjeść od 1 do 3 ciastek,
+ale nie może zjeść ich tyle samo co przeciwnik  w poprzednim ruchu.
+Przegrywa gracz który zje ostatnie ciasto.
